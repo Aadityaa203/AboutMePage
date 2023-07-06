@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(186, 221, 209);
+}
+
+
+img {
+     width: 250px;
+}
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}

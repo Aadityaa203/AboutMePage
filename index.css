@@ -1,16 +1,32 @@
-body{
-    text-align: center;
-    background-color: rgb(186, 221, 209);
+body {
+  text-align: center;
+  background-color: rgb(186, 221, 209);
 }
-
+h1 {
+  font-size: 50px;
+  margin: 15px 0 0 0;
+}
+h2 {
+  margin: 5px;
+}
+h3 {
+  margin: 5px;
+}
 
 img {
-     width: 250px;
+  width: 250px;
 }
-ul{
-    list-style-position: inside;
+ul {
+  list-style-position: inside;
 }
 
-ol{
-    list-style-position: inside;
+ol {
+  list-style-position: inside;
+}
+.a {
+  font-size: 25px;
+  width: 100%;
+}
+.links {
+  margin: 30px 60px 30px 60px;
 }

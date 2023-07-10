@@ -1,10 +1,13 @@
 body {
   text-align: center;
   background-color: rgb(186, 221, 209);
+  border: 10px solid rgb(207, 189, 189);
+  border-radius: 20px;
 }
 h1 {
   font-size: 50px;
   margin: 15px 0 0 0;
+  font-family: "Source Code Pro", monospace;
 }
 h2 {
   margin: 5px;
@@ -24,9 +27,19 @@ ol {
   list-style-position: inside;
 }
 .a {
-  font-size: 25px;
+  font-size: 20px;
   width: 100%;
+}
+.a:hover {
+  font-size: 25px;
 }
 .links {
   margin: 30px 60px 30px 60px;
+  color: blueviolet;
+}
+.links:hover {
+  color: rgb(106, 173, 65);
+}
+li {
+  font-size: 14px;
 }
